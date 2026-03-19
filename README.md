@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Plataforma-Windows-0078d7?style=for-the-badge&logo=windows" alt="Windows">
 </p>
 
-O **Sys Web Browser Alpha** é um navegador de Lurk especializado, baseado em WebView2, focado em performance e integração para sistemas desktop. Esta versão marca a transição completa do projeto para C#, trazendo mais robustez e novos recursos de estabilidade.
+O **Sys Web Browser Enigma** é um navegador de Lurk especializado, baseado em WebView2, focado em performance e integração para sistemas desktop. Esta versão marca a transição completa do projeto para C#, trazendo mais robustez e novos recursos de estabilidade.
 
 ---
 
