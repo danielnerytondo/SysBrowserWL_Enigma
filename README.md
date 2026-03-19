@@ -1,4 +1,4 @@
-# Sys Web Browser TGT - Versão 2.0.1.0 🚀
+# Sys Web Browser Alpha - Versão 2.0.1.0 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vers%C3%A3o-2.0.1.0-blue?style=for-the-badge" alt="Versão">
@@ -6,13 +6,13 @@
   <img src="https://img.shields.io/badge/Plataforma-Windows-0078d7?style=for-the-badge&logo=windows" alt="Windows">
 </p>
 
-O **Sys Web Browser TGT** é um navegador de Lurk especializado, baseado em WebView2, focado em performance e integração para sistemas desktop. Esta versão marca a transição completa do projeto para C#, trazendo mais robustez e novos recursos de estabilidade.
+O **Sys Web Browser Alpha** é um navegador de Lurk especializado, baseado em WebView2, focado em performance e integração para sistemas desktop. Esta versão marca a transição completa do projeto para C#, trazendo mais robustez e novos recursos de estabilidade.
 
 ---
 
 ## ❤️ Apoie o projeto
 
-Este projeto é desenvolvido por uma só pessoal, e mantido com dedicação constante para melhorias e correções de bugs. Ele é gratuito para uso, se este APP de Lurk esta sendo útil para você, considere apoiar o desenvolvimento contínuo:
+Este projeto é desenvolvido por uma só pessoa, e mantido com dedicação constante para melhorias e correções de bugs. Ele é gratuito para uso, se este APP de Lurk esta sendo útil para você, considere apoiar o desenvolvimento contínuo:
 
 * 💰 **[Livepix](https://livepix.gg/maddaniel1):** Doação via LivePix
 
@@ -38,7 +38,7 @@ O sistema conta com um monitor de integridade em tempo real:
 ## 🚀 Como Executar
 
 ### 1. Download
-* 📦 **[Versão de download](https://github.com/danielnerytondo/SysBrowserWL_TGT/releases/tag/TGT_SysBrowserWL10033p)**
+* 📦 **[Versão de download](https://github.com/danielnerytondo/SysBrowserWL_Alpha/releases/tag/v2.0.1.0)**
 
 
 ### 2. Requisitos Obrigatórios
@@ -52,4 +52,4 @@ O sistema conta com um monitor de integridade em tempo real:
 * Otimização de carregamento de customizações.
 
 ---
-**Desenvolvido por Daniel Nery Tondo**
+**Desenvolvido por [Daniel Nery Tondo](https://sysweblurk.com.br)**
