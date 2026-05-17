@@ -1,4 +1,4 @@
-# Sys Web Browser Enigma - Versão 2.0.1.0 🚀
+# Sys Web Browser Enigma - Versão 2.0.2.0 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vers%C3%A3o-2.0.1.0-blue?style=for-the-badge" alt="Versão">
@@ -46,7 +46,7 @@ O sistema conta com um monitor de integridade em tempo real:
 
 ---
 
-## 📝 Changelog 2.0.1.0
+## 📝 Changelog 2.0.2.0
 * Migração total de VB.NET para C#.
 * Implementação do Watchdog.
 * Otimização de carregamento de customizações.
